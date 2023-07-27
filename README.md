@@ -20,8 +20,8 @@
 
 #### Collaboration
 ![github](https://img.shields.io/badge/github-f5f5f5?style=flat-square&logo=github&logoColor=181717)
-![Notion](https://img.shields.io/badge/notion-f5f5f5?style=flat-square&logo=notion&logoColor=181717)
-![Slack](https://img.shields.io/badge/slack-f5f5f5?style=flat-square&logo=slack&logoColor=4A154B)
-![Figma](https://img.shields.io/badge/figma-f5f5f5?style=flat-square&logo=figma)
+![Notion](https://img.shields.io/badge/Notion-f5f5f5?style=flat-square&logo=notion&logoColor=181717)
+![Slack](https://img.shields.io/badge/Slack-f5f5f5?style=flat-square&logo=slack&logoColor=4A154B)
+![Figma](https://img.shields.io/badge/Figma-f5f5f5?style=flat-square&logo=figma)
 ![AdobeXD](https://img.shields.io/badge/AdobeXD-f5f5f5?style=flat-square&logo=adobexd)
 
