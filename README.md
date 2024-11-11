@@ -13,7 +13,7 @@
   <img
     src="https://render.gitanimals.org/lines/fe-Jay?pet-id=643543329843187741"
     width="600"
-    height="120"
+    height="240"
   />
 </a>
   
