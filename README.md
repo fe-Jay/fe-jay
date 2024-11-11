@@ -4,7 +4,7 @@
 
 - 👩🏻‍💻 I'm practicing 1commit per day to reflect on my own growth metrics.
 
-- 👩🏻‍🏫 I'm still learning and striving to become a driven developer who can tackle any problem, no matter how difficult, with time and dedication.
+- 👩🏻‍🏫 I'm still learning and striving to become a effective developer who can tackle any problem, no matter how difficult, with time and dedication.
 
 <br/>
 
