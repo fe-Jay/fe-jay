@@ -8,6 +8,18 @@
 
 <br/>
 
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/fe-Jay?pet-id=640467114267751117"
+    width="600"
+    height="120"
+  />
+</a>
+  
+<br/>
+
 ## Skills
 #### Development
 ![React](https://img.shields.io/badge/React-f5f5f5?style=flat-square&logo=React)
