@@ -1,5 +1,5 @@
 ## Hi there, I'm Jay 👋
-- 🙋🏻‍♀️ I'm a junior front-end developer trying to realize the value of collaboration.
+- 🙋🏻‍♀️ I'm a front-end developer trying to realize the value of collaboration.
 - 👩🏻‍💻 I'm practicing 1commit per day to reflect on my own growth metrics.
 - 👩🏻‍🏫 I'm still learning and striving to become a effective developer who can tackle any problem, no matter how difficult, with time and dedication.
 
