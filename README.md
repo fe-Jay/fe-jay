@@ -5,17 +5,6 @@
 
 <br/>
 
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/fe-Jay"
-  width="600"
-  height="300"
-/>
-</a>
-  
-<br/>
-
 ## Skills
 #### Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
